@@ -62,7 +62,7 @@ For both sections (Teachers and Students), the admin can:
 [Admin Dashboard Screenshot](![admin main](https://github.com/user-attachments/assets/4d57c361-4612-4971-93e7-3e422656a4bc)
 )
 
-# 🧑‍🏫 Teachers Dashboards
+### 🧑‍🏫 Teachers Dashboards
 [Teachers main Dashboard Screenshot](![Teach main](https://github.com/user-attachments/assets/5b064923-7e7b-4b5c-b6f0-27b426f6b864)
 )
 
@@ -72,7 +72,7 @@ For both sections (Teachers and Students), the admin can:
 [Manage Teachers Dashboard Screenshot](![manage teach](https://github.com/user-attachments/assets/1f0f60ff-ce9f-414e-94b1-dce1e61f9ee8)
 )
 
-# 🧑‍🎓 Students Dashboards
+### 🧑‍🎓 Students Dashboards
 [Students main Dashboard Screenshot](![image](https://github.com/user-attachments/assets/738af072-3626-4b53-94b6-5daa2f875dea)
 )
 
