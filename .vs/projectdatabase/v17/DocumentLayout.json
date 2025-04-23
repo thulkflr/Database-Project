@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\teachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\teachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\mange teachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\mange teachers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\manage students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\manage students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\display teachers info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\display teachers info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\display students info.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\display students info.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|c:\\users\\thoth\\onedrive\\desktop\\projectdatabase\\projectdatabase\\display students info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E56B-7EA0-4BE0-A041-D744C42C44C2}|projectdatabase\\projectdatabase.csproj|solutionrelative:projectdatabase\\display students info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teachers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Teachers.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Teachers.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Teachers.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Teachers.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Students.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Students.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Students.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Students.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Program.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Program.cs",
+              "RelativeToolTip": "projectdatabase\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mange teachers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Mange teachers.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Mange teachers.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Mange teachers.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Mange teachers.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manage students.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Manage students.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Manage students.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Manage students.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Manage students.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Form1.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Display teachers info.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display teachers info.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Display teachers info.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display teachers info.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Display teachers info.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:32.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Display students info.resx",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display students info.resx",
+              "RelativeDocumentMoniker": "projectdatabase\\Display students info.resx",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display students info.resx",
+              "RelativeToolTip": "projectdatabase\\Display students info.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-23T11:09:26.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Display students info.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display students info.Designer.cs",
+              "RelativeDocumentMoniker": "projectdatabase\\Display students info.Designer.cs",
+              "ToolTip": "C:\\Users\\thoth\\OneDrive\\Desktop\\projectdatabase\\projectdatabase\\Display students info.Designer.cs",
+              "RelativeToolTip": "projectdatabase\\Display students info.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:09:14.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
